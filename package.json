@@ -1,0 +1,1 @@
+{\n  \"name\": \"my-project\",\n  \"version\": \"1.0.0\",\n  \"main\": \"index.js\",\n  \"dependencies\": {\n    \"react\": \"^17.0.0\",\n    \"react-native\": \"^0.64.0\",\n    \"expo\": \"^44.0.0\",\n    \"@react-navigation/native\": \"^6.0.0\",\n    \"@react-navigation/stack\": \"^6.0.0\"\n  }\n}
