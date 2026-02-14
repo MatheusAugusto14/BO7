@@ -1,1 +1,19 @@
-{\n  \"name\": \"my-project\",\n  \"version\": \"1.0.0\",\n  \"main\": \"index.js\",\n  \"dependencies\": {\n    \"react\": \"^17.0.0\",\n    \"react-native\": \"^0.64.0\",\n    \"expo\": \"^44.0.0\",\n    \"@react-navigation/native\": \"^6.0.0\",\n    \"@react-navigation/stack\": \"^6.0.0\"\n  }\n}
+{
+  "name": "bo7-zombies",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.0.0",
+    "vite": "^5.0.0"
+  }
+}

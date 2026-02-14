@@ -1,1 +1,2 @@
-# BO7
+npm install
+npm run dev
